@@ -15,7 +15,7 @@ gdjs.EndScreenCode.GDmenuButtonObjects3= [];
 
 
 gdjs.EndScreenCode.mapOfGDgdjs_9546EndScreenCode_9546GDChooseInternshipObjects1Objects = Hashtable.newFrom({"ChooseInternship": gdjs.EndScreenCode.GDChooseInternshipObjects1});
-gdjs.EndScreenCode.userFunc0x24b03d0 = function GDJSInlineCode(runtimeScene) {
+gdjs.EndScreenCode.userFunc0x661e4c0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 window.location.href = "https://hnrus.com/career/";
 
@@ -25,7 +25,7 @@ gdjs.EndScreenCode.eventsList0 = function(runtimeScene) {
 {
 
 
-gdjs.EndScreenCode.userFunc0x24b03d0(runtimeScene);
+gdjs.EndScreenCode.userFunc0x661e4c0(runtimeScene);
 
 }
 

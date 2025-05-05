@@ -97,7 +97,7 @@ gdjs.MainMenuCode.GDNewSprite2Objects4= [];
 gdjs.MainMenuCode.GDNewSprite2Objects5= [];
 
 
-gdjs.MainMenuCode.userFunc0x3b94070 = function GDJSInlineCode(runtimeScene) {
+gdjs.MainMenuCode.userFunc0x4cf5bb0 = function GDJSInlineCode(runtimeScene) {
 "use strict";
 (function () {
   const tg = window.Telegram && window.Telegram.WebApp;
@@ -234,7 +234,7 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), 
 {
 
 
-gdjs.MainMenuCode.userFunc0x3b94070(runtimeScene);
+gdjs.MainMenuCode.userFunc0x4cf5bb0(runtimeScene);
 
 }
 
